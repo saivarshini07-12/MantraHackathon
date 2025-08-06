@@ -1,0 +1,12 @@
+ultralytics 
+opencv-python 
+langchain 
+langchain-google-genai
+python-dotenv 
+fastapi 
+uvicorn
+streamlit
+langchain-community
+langchain-core
+ultralytics
+python-dotenv
